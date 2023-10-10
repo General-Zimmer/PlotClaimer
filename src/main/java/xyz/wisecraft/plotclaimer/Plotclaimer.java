@@ -1,8 +1,6 @@
 package xyz.wisecraft.plotclaimer;
 
 import com.plotsquared.bukkit.BukkitPlatform;
-import com.plotsquared.core.PlotSquared;
-import com.plotsquared.core.events.PlayerClaimPlotEvent;
 import com.plotsquared.core.player.PlotPlayer;
 import com.plotsquared.core.plot.Plot;
 import com.plotsquared.core.plot.PlotArea;
@@ -14,7 +12,7 @@ import org.bukkit.event.player.PlayerSwapHandItemsEvent;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Plotclaimer extends JavaPlugin {
+public class Plotclaimer extends JavaPlugin {
 
     Plotclaimer plugin = this;
     BukkitPlatform plotSquared;
