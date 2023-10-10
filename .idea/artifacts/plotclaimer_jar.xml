@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="plotclaimer:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="plotclaimer.jar">
+      <element id="module-output" name="plotclaimer" />
+    </root>
+  </artifact>
+</component>

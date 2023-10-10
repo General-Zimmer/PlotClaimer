@@ -1,0 +1,6 @@
+name: plotclaimer
+version: '0.0.1-SNAPSHOT'
+depend:
+  - PlotSquared
+main: xyz.wisecraft.plotclaimer.Plotclaimer
+api-version: '1.20'
